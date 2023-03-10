@@ -14,7 +14,7 @@ The objective of this project is to try to answer some questions regarding the A
 Inside Airbnb: http://insideairbnb.com/get-the-data/
 
 Datasets 
-- Mexico City 26Mar2022
-- Mexico City 21Jun2022
-- Mexico City 22Sept2022
-- Mexico City 29Sept2023
+- Mexico City 26Mar2022 (Calendars, Listings)
+- Mexico City 21Jun2022 (Calendars, Listings)
+- Mexico City 22Sept2022 (Calendars, Listings)
+- Mexico City 29Sept2023 (Calendars, Listings)
