@@ -1,5 +1,6 @@
 # Mexico_City_Airbnb_2023
 Medium project 09-Mar-2023
+
 https://medium.com/@frubi17/have-you-ever-wondered-analysis-of-the-airbnb-rentals-in-mexico-city-a337e33f0ed4
 
 ## Have you ever wondered? Analysis of the Airbnb rentals for Mexico City
